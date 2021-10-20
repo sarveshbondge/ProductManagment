@@ -1,2 +1,2 @@
 # ProductManagment
-ProductManagment curd opraton  project using Spring mvc  and Hibernet
+ProductManagment curd opration  project using Spring MVC  and Hibernet .
